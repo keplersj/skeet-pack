@@ -1,0 +1,13 @@
+name = "Clutter"
+filename = "clutter-1.20-0.5.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KZAmykow/versions/yOUMwHO3/clutter-1.20-0.5.10.jar"
+hash-format = "sha512"
+hash = "d09af96ce671ff68043b470bce4d4df58b97540bf8491ab868c3cffac68c7278436e1aaed9ef29149228bb8d661070db97fbd7138d3470947d443c00f234aba8"
+
+[update]
+[update.modrinth]
+mod-id = "KZAmykow"
+version = "yOUMwHO3"

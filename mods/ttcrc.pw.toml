@@ -1,0 +1,13 @@
+name = "Terrestria, Traverse & Cinderscape Recipe Compat"
+filename = "ttcrc-0.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bo1hiuaD/versions/OdDNh2Gb/ttcrc-0.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "8dbb587e3818642b9cdd2aa6160c4ae56a2730832485175b4acb4404fb3411625a8a00f01c2f28f038a5ac93bae27aa24ee92256bee3bfc0de2bd20774456ee2"
+
+[update]
+[update.modrinth]
+mod-id = "bo1hiuaD"
+version = "OdDNh2Gb"

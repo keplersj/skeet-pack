@@ -1,0 +1,13 @@
+name = "Neat"
+filename = "Neat-1.20-35-FABRIC.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ins7SzzR/versions/rQU2ZCZX/Neat-1.20-35-FABRIC.jar"
+hash-format = "sha512"
+hash = "f8042b23fd66a356dd7e3bf7909d2ba3e98032b8693d53ad8998c176b842469fcec3492de8611f6f6efdd8d8a0e774978515daff15c1acf297e77936a1a6e061"
+
+[update]
+[update.modrinth]
+mod-id = "Ins7SzzR"
+version = "rQU2ZCZX"

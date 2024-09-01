@@ -1,0 +1,13 @@
+name = "Skeet Pack"
+author = "Kepler Sticka-Jones <kepler@stickajones.org>"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "22c1337c044f7107e695cd94b27066ea6f294c5e2cf6d1b0253699badfe13556"
+
+[versions]
+fabric = "0.16.3"
+minecraft = "1.20.1"

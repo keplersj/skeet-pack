@@ -1,0 +1,13 @@
+name = "Botania: Garden of Glass"
+filename = "gardenofglass-1.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u9tsjkut/versions/BqJPkPin/gardenofglass-1.12.jar"
+hash-format = "sha512"
+hash = "ff365161bbbfe7da212a54ca7c75f129b13a89aff9653ec64e4cd31a42abfb0c87f79c50b6149e93b7f666915dfc88538eeff2812f422ebed148b06402e9a04b"
+
+[update]
+[update.modrinth]
+mod-id = "u9tsjkut"
+version = "BqJPkPin"

@@ -1,0 +1,13 @@
+name = "[ETF] Entity Texture Features"
+filename = "entity_texture_features_fabric_1.20.1-6.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/ooSVk2Bu/entity_texture_features_fabric_1.20.1-6.2.2.jar"
+hash-format = "sha512"
+hash = "684e7e22c76c93f734cf371a02c7c73753d2e960970673bc1a7151296cee60afd5d218f42d45c8755ceb7b05513a3eb49a190e311d2f1b2e5dfbaa2d76642862"
+
+[update]
+[update.modrinth]
+mod-id = "BVzZfTc1"
+version = "ooSVk2Bu"
