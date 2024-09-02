@@ -1538,6 +1538,11 @@ hash = "f7a028a15ecd9ad8c1719b441a6755912251ff58cfd6a385d0b3f18aefb3bc2c"
 metafile = true
 
 [[files]]
+file = "mods/stacc-api.pw.toml"
+hash = "a2509332e88359cb8c1379c881d213f60f98dd7fa67e0e62558ff1ab37d938bb"
+metafile = true
+
+[[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "8521f339c1c3b016d1751671e9cded0eeb8fb229845c5aa8c101802f18511903"
 metafile = true
