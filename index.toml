@@ -1483,6 +1483,11 @@ hash = "2be9bce8f690cd9ffb8e92f851805967f326d4c74f44984d1f2df63cf606ba9c"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "e7bd6b90b0c1a476e06057db77a606054b70e2bb256c5ea9569c194388bf9525"
+metafile = true
+
+[[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "1159cb00d78246179976d7e6c684cc099b63952c16970a549b1559b9d41916ba"
 metafile = true
