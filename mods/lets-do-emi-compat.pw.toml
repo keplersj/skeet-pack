@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] EMI Compat"
+filename = "emi-letsdo-compat-fabric-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k6hi4lMv/versions/NmIbaTJc/emi-letsdo-compat-fabric-1.2.jar"
+hash-format = "sha512"
+hash = "39a8b60f401083ab1c2c52168747b5fa7881123dce25df5712bafae786fc90364cee4fd8b236630bb5567976edaa0f6b9b27d28875b8e9e18e8e877a032fa3b0"
+
+[update]
+[update.modrinth]
+mod-id = "k6hi4lMv"
+version = "NmIbaTJc"

@@ -1,0 +1,13 @@
+name = "Scalable Cat's Force"
+filename = "scalable-cats-force-fabric-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zr0QMQMo/versions/K6NLzgWh/scalable-cats-force-fabric-2.2.0.jar"
+hash-format = "sha512"
+hash = "429c566d853795dc0e90b10f091abef02de3fcd0a6e16c7caeaef035e93e856a62b908144d76a7a9ebef38bc006c0c4850e5afb806b8422c2b008594b5fbc8d7"
+
+[update]
+[update.modrinth]
+mod-id = "zr0QMQMo"
+version = "K6NLzgWh"

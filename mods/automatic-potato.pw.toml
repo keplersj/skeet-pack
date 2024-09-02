@@ -1,0 +1,13 @@
+name = "automatic-potato"
+filename = "VersionCheckerMod-2.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fLArsyMM/versions/Yt2TDudz/VersionCheckerMod-2.4.0.jar"
+hash-format = "sha512"
+hash = "aa777aa886f81ee5f39714ec92478a083584d8b87186da200adc8102805665f90cc8df38a2881537e78a7103be5e638a9dea74560b9fb9a5118b78793f1abc3a"
+
+[update]
+[update.modrinth]
+mod-id = "fLArsyMM"
+version = "Yt2TDudz"

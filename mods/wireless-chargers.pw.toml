@@ -1,0 +1,13 @@
+name = "Wireless Chargers"
+filename = "wirelesschargers-1.0.9a-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nCk7Sfz8/versions/IYYCJZyP/wirelesschargers-1.0.9a-fabric-mc1.20.jar"
+hash-format = "sha512"
+hash = "586c1b97f104669730f4e9bdd36e2a2edcf51306442dab34cd1607c329d185ae3f8e2d3e6177668b8bff53ea21c90f9f4d90040a0eda91bfb1135a45ce5404da"
+
+[update]
+[update.modrinth]
+mod-id = "nCk7Sfz8"
+version = "IYYCJZyP"

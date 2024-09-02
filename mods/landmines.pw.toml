@@ -1,0 +1,13 @@
+name = "Landmines"
+filename = "landmines-1.0.7a-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/umx3sWHn/versions/ClGPbySn/landmines-1.0.7a-fabric-mc1.20.jar"
+hash-format = "sha512"
+hash = "1e7aec4d94b646a0052fc572e3751fbc941588797cc32cabeda253e366f31306affb0c621ddf5051761c26c876a0b27cef84d97cd3659dba4d3f2aeca72fb9fb"
+
+[update]
+[update.modrinth]
+mod-id = "umx3sWHn"
+version = "ClGPbySn"

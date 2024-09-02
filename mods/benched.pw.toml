@@ -1,0 +1,13 @@
+name = "Benched"
+filename = "benched-1.2.2a-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WjRy3Hb2/versions/1F2F33HI/benched-1.2.2a-fabric-mc1.20.jar"
+hash-format = "sha512"
+hash = "153f7a8894332d5fb8af98c7570cda4b7b01620e9e9a401069efb9c3f0e0097571513d9eb98cd7d93f82109cf82ccd8a4578053978498cbc177fde2430cadb5c"
+
+[update]
+[update.modrinth]
+mod-id = "WjRy3Hb2"
+version = "1F2F33HI"

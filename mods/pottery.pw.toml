@@ -1,0 +1,13 @@
+name = "Pottery"
+filename = "pottery-1.0.2-fabric-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iiuzmkWd/versions/MyUzxueM/pottery-1.0.2-fabric-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "b83e8d504d140d208596b30870f8d0da412cd6edf50be46c15b20c852e1f1583bedaca93b97ce1a493ca82a2f5b3c1df7b001445b26925ea29b3cbe96bf6f6f2"
+
+[update]
+[update.modrinth]
+mod-id = "iiuzmkWd"
+version = "MyUzxueM"
