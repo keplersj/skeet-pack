@@ -1508,6 +1508,11 @@ hash = "7e70adbf896cb9e1162e144adb95a53f0aad1771489ae9aa5d855eb5f241aa36"
 metafile = true
 
 [[files]]
+file = "mods/skylands.pw.toml"
+hash = "3e2eaa315746e968fb68921d0ce7cc60bf3a18ef92e7048d6d6172cc164c7c2f"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "9697452898b931432fce197542bf47134f25a9105d0b4c01705bec1aaaed145c"
 metafile = true

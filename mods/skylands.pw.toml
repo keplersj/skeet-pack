@@ -1,0 +1,13 @@
+name = "Skylands"
+filename = "skylands-0.3.11+1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wbrBu6hJ/versions/1bbxbZgy/skylands-0.3.11%2B1.20.jar"
+hash-format = "sha512"
+hash = "1f0cae69b8504e27d4bf019d47266821391eb7c6eb4f987d9faef79feba94721f10ecbdabfebd0b8e0006910a165de60995ebe7204cabd1780b541c4e07133f3"
+
+[update]
+[update.modrinth]
+mod-id = "wbrBu6hJ"
+version = "1bbxbZgy"
