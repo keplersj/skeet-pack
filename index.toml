@@ -599,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "0403bef24a249d2fcd6be807f44f2b7dbd5c5950505fda3ec1cda1914e38832f"
+hash = "5816206c6e1eade384b14425ce2b419e34370b6a4507afc5da8bf8ecabc2574c"
 metafile = true
 
 [[files]]
@@ -814,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "8b7116df5d0e1e4af28ad8e3c2011840713efa3c235f9b058455b04830920a5b"
+hash = "f2f662f6d890e73435bebe8d6e35b75917dc9e1492e2a2d20d5646c3aea20e63"
 metafile = true
 
 [[files]]
