@@ -298,6 +298,11 @@ hash = "1d5afec438fc8fede781e4be1abe412800ab872066e685d9832ba27a9a2329aa"
 metafile = true
 
 [[files]]
+file = "mods/chunky-extension.pw.toml"
+hash = "28ffbaeee6a9331f5a08458718e1b9e39127bec8dad7af8e14ec277e6b6c3837"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
 metafile = true
