@@ -1288,6 +1288,11 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "953d390eb2bcb2569c3aef7a872db9fb84091ff88244f8bbcb64eed5ce306cd1"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "1dbd3b2969118cf3bf47efd9eac2838abb815efce4d33ea47091f20b42ebfd24"
 metafile = true
@@ -1730,11 +1735,6 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "d349dc61ecf40560ef09e62881a3ab789ea14f751bc382f3f9a5477739778ffc"
-metafile = true
-
-[[files]]
-file = "mods/xxl-packets.pw.toml"
-hash = "97ff3e13873aeff3ffa0a53113ffb719ccd1f6bf6b98f74e3461bd7a62451915"
 metafile = true
 
 [[files]]
