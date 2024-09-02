@@ -898,6 +898,11 @@ hash = "965877522ca6dcbe627fe097374fb45e2fb66e12a5ccb338e446f0dc66ceb74a"
 metafile = true
 
 [[files]]
+file = "mods/huskhomes.pw.toml"
+hash = "60b8f6a7a8f00205de0c9b460cdcadebf9ff1f4c089edd04bb1b336889246d64"
+metafile = true
+
+[[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "de0cfe3fc8ba936c32045ad21ccae5cfd89b025baa3bf8e6ddb69ea764569a11"
 metafile = true

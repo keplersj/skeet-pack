@@ -1,0 +1,13 @@
+name = "HuskHomes"
+filename = "huskhomes-4.7+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/J6U9o3JG/versions/cA0nmJeA/HuskHomes-Fabric-4.7%2Bmc.1.20.1.jar"
+hash-format = "sha512"
+hash = "5b6ba30211dd9b3bb9a6cf6bb026dc939206bba424ac82d87285d3313da8f72f04851804b5baeaf2f60253563fd77ee9afcbe1338f7ddc0b5fb67d0d9f8f6668"
+
+[update]
+[update.modrinth]
+mod-id = "J6U9o3JG"
+version = "cA0nmJeA"
