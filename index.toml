@@ -1678,11 +1678,6 @@ hash = "53b00436579bd2ea920ef8ae8b1464cb4744dbfd21055d8a3f4768019b78e5bc"
 metafile = true
 
 [[files]]
-file = "mods/threatengl.pw.toml"
-hash = "fc5922e84359f94917d10c6fe9dcb332ebfc16ea3881885c113469a219a85aae"
-metafile = true
-
-[[files]]
 file = "mods/trample-no-more.pw.toml"
 hash = "f1ea096c808b3150db53114c6206815250716e5fd4df5030a0f829d04347e7be"
 metafile = true
@@ -1740,11 +1735,6 @@ metafile = true
 [[files]]
 file = "mods/voidz.pw.toml"
 hash = "38b94cdf18391e418dce30cf9f48449369079fc67afc2fa66d325d98ea114115"
-metafile = true
-
-[[files]]
-file = "mods/waygl.pw.toml"
-hash = "b88a843e4d0d8b606d5ee62109b04d64fd5e246749acd70ff0854040a1ef9c30"
 metafile = true
 
 [[files]]
