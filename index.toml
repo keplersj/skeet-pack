@@ -733,6 +733,11 @@ hash = "9d41d045cac93146b711ba1e0dcd64c4767bd2c699fded5f181fcb8340d8dfdc"
 metafile = true
 
 [[files]]
+file = "mods/fabricexporter.pw.toml"
+hash = "d840aa504a2c9a157f8033b587f5aa5ff39eab39a11317ead8ce744ce43aab84"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
 hash = "a87febb1a064e3f9e9d7b3a2855f047356f5edd2fd520b1aade632b8bbe4da12"
 metafile = true
@@ -1280,6 +1285,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "20f7c381590a3f06968a33de08137b3826ff1cfeafd5b383a6ea9a92497b8748"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "752c3a959b3876308515a053d90ee632b4ebedc2f021f9ee79c57f1eafdbdff8"
 metafile = true
 
 [[files]]
