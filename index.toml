@@ -248,11 +248,6 @@ hash = "60cecb26aee1b43672d7a9ffdea70c2c0cbb283abe019df50e8bb64c0992b301"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
-metafile = true
-
-[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "0cc9069aeee558e036c7afd064d37d9f468ea1138705da0fe4aad64d95312f79"
 metafile = true
